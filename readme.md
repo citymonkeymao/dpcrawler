@@ -1,6 +1,9 @@
 #Brief
 Collect resterant info from m.dianping.com. Results can be printed to screen or to a file. Built with Maven.
 #Command Line
+Download [dzdp-0.0.1-SNAPSHOT-jar-with-dependenciesjar](https://github.com/citymonkeymao/dpcrawler/releases/download/0.0.1/dzdp-0.0.1-SNAPSHOT-jar-with-dependencies.jar)
+
+
 `java -jar dzdp-0.0.1-SNAPSHOT-jar-with-dependencies.jar -c Syd -M 1000 -f ./resut.txt`
 
 `-c` choose the city: Syd, Mel, default Syd.
