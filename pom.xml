@@ -5,7 +5,10 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>crawler</name>
   <description>crawler for dzdp</description>
-  
+   <properties>
+    <maven.compiler.source>1.8</maven.compiler.source>
+    <maven.compiler.target>1.8</maven.compiler.target>
+  </properties>
   <dependencies>
     <dependency>
        <groupId>com.alibaba</groupId>
